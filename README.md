@@ -35,9 +35,9 @@ Connect to a constellation of people, find your guiding star and join us in crea
 
 Coming Soon.
 
-#### The Decentralisation Zone at Mozfest
+#### The Queering Space at Mozfest
 
-##### Entering the Decentralisation Zone
+##### Entering the Queering Space
 
 Coming Soon.
 
