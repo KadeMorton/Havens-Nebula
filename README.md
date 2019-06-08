@@ -1,14 +1,25 @@
 # Havens-Nebula
-Open World for the Mozfest 2019 Queering Space
 
-The Queering Zone - Haven's Nebula
+Written by Kade Morton
 
-The physical space is called Haven's Nebula
-Reasoning: Nebulas appear nice and soft, so we have the tactile element of the space. Nebulas are where stars are born so we have homecoming, haven is part of the theme below. Nebulas are also colourful so we have license for rainbows and everything else.
-Supporting: To bring out the fluffy nature of nebulas I think beanbags, if we can get them cheap, or cushions, are a must. Big and soft is what we want.
+## Open World for the Mozfest 2019
+* Submit stories set in [Haven's Nebula]()
+* Submit artwork from the Nebula
+* Engage with the theme in ways we haven't even thought of yet!
+* https://www.pinterest.com.au/kade2343/queering-mozfest-2019/
+* Email kademorton at protonmail dot com to contribute
 
-Story: (words are not perfect, this is the outline of the idea) Disillusioned with technological trends, queer communities the world over build collectives to create their own technology. Three separate groups develop AI that values queerness. Working from the principle that data is not immutable, that it has a measure of time and allows people to change and to define themselves, these AI come to a much deeper understanding of humanity and the world around them than anything churned out by the industrial complex that is technology today. These AI, while different, do not work off binary understandings or false dichotomies. They are inclusive technology as the collective define it. But then, something strange happened. The AI's independently start producing three sets of numbers. On closer inspection, they are coordinates, but not for anywhere on Earth. They are for coordinates of stars in the night sky. Analysis of network traffic shows the AI are connecting with satellites long thought dormant, and the satellites are receiving signals from beyond Earth. Each of the signals have a name, they call themselves Asterisms. Refugees from an intergalactic conflict, the Asterism are looking for allies to create a safe harbour, a utopia for all living beings. The Asterisms give the collectives hope and guide them through troubled times to a place that everyone can be free, Haven's Nebula.
-Reasoning: Asterism is the official term for small constellations. And unlike constellations, they are not fixed. There is no official international body that recognises them, they are a complete social construct that people choose to by into. The three of us can choose to recognise a particular group of stars as our Asterism of anything we like, and others can recognise if they choose, or recognise some or all of those same stars as a completely different Asterism.
+### Overview
+Haven's Nebula is a thought experiment around queering. The Queering Space at MozFest 2018 inspired a number of us to carry on the tradition, and this time around we got to plan a distinct theme. We knew we couldn't do unicorns because 2019 had to differentiate itself from 2018. One of the queering team for this year suggested stars as a path to liberation as a theme, immediately I was able to run with that. The below is what we came up with.
+
+Disillusioned with technological trends, queer communities the world over have built collectives to create their own technology. Three separate groups developed AI that values queerness. Working from the principle that data is not immutable, that it has a measure of time which allows people to change and to define themselves, these AI come to a much deeper understanding of humanity and the world around them than anything churned out by the industrial complex that is the technology industry today. These AI, while different, do not work off binary understandings or false dichotomies. They are inclusive technology as their respective collectives define it. 
+
+But then, something strange happened. The AI's independently started producing a set of numbers. The same numbers. On closer inspection, they are coordinates, but not for anywhere on Earth. They are for coordinates of stars in the night sky. Analysis of network traffic shows the AI are connecting with satellites long thought dormant, and the satellites are receiving signals from beyond Earth. Each of the signals have a name, they call themselves Asterisms. 
+
+Refugees from an intergalactic conflict, the Asterism are looking for collaborators to create a safe harbour, a utopia for all living beings. The Asterisms guide the collectives through troubled times to a place that everyone can be free, Haven's Nebula.
+
+
+
 
 The Three Asterisms of Haven's Nebula
 Vaeleph Naksharab, the Herald of Alchemy
@@ -33,4 +44,10 @@ Welcome to the Haven's Nebula, a manifestation of collective liberation. Inclusi
 
 Overall notes: The cultures that really came through from my brief reading were Egyptian, Arabic, Babylonian, Indian, Chinese, and Polynesian (Australian Aborigine (though they would dispute being called Polynesian, I'm lumping together geography) Maori and Hawaiian) as they really focused on astronomy. I tried to weave in all the elements we discussed in person, like using the stars to escape slavery and while there are some elements in names names I steered largely clear of Greek and Roman astrology due to it being the foundation of what we know as Western astronomy today. If anyone feels the above isn't representative enough now is the time to voice it.
 
-Please shred and we can work from there.
+
+
+The Queering Zone - Haven's Nebula
+
+The physical space is called Haven's Nebula
+Reasoning: Nebulas appear nice and soft, so we have the tactile element of the space. Nebulas are where stars are born so we have homecoming, haven is part of the theme below. Nebulas are also colourful so we have license for rainbows and everything else.
+Supporting: To bring out the fluffy nature of nebulas I think beanbags, if we can get them cheap, or cushions, are a must. Big and soft is what we want.
