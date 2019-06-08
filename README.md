@@ -1,4 +1,4 @@
-# Havens-Nebula
+# Haven's Nebula
 
 Written by Kade Morton
 
@@ -18,7 +18,17 @@ But then, something strange happened. The AI's independently started producing a
 
 Refugees from an intergalactic conflict, the Asterism are looking for collaborators to create a safe harbour, a utopia for all living beings. The Asterisms guide the collectives through troubled times to a place that everyone can be free, Haven's Nebula.
 
+### MozFest
 
+The space description from the [MozFest Website](https://www.mozillafestival.org/en/spaces/queering/):
+
+Welcome to Haven's Nebula!
+
+As many oppressed communities did in the past, we are following the stars to set us free. Together, we are building more inclusive tech, better machine decision making and safe digital spaces that bring us closer to collective liberation. Haven's Nebula is a space to connect, build community, relax, and navigate the queering experience across MozFest.
+
+Propose a session and build community through performance, discussion, learning, and friendship. This space comes from a foundation of radical inclusion through a queer lens, and the purpose of Haven’s Nebula is to light the way to collective liberation.
+
+Connect to a constellation of people, find your guiding star and join us in creating the inclusive world we want.
 
 
 The Three Asterisms of Haven's Nebula
