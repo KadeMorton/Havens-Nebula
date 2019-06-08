@@ -31,33 +31,16 @@ Propose a session and build community through performance, discussion, learning,
 Connect to a constellation of people, find your guiding star and join us in creating the inclusive world we want.
 
 
-The Three Asterisms of Haven's Nebula
-Vaeleph Naksharab, the Herald of Alchemy
-The stars of VN form a unicorn
-Meaning: This asterism is about family and community, among LGBTQI+, among the wider idea of queer and in the world at large. Transmuting something worthless, like division, hate, pain etc., into something beautiful like family, community and allies. This asterism is about campaigning and advocacy.
+#### Asterisms at MozFest
 
-Phaeshira Aziban, the Contraverse Form
-The stars of PA form a creature with a flowing form, I'm still playing with different forms in my head
-Meaning: This asterism is about change, be that physically changing your body, changing your appearance, changing your opinions. This is fluid identity that rebels against the idea of being cast in stone as something that cannot change, taking multiple forms. This asterism is about freedom and self determination.
+Coming Soon.
 
-Thumeisa Kaitos, the Chromatic Verity
-The stars of TK form a robed figure
-Meaning: This asterism is about what truth means to the individual and to the community that the individual associates with. It can be a choice to not share your queerness with anyone, or with a chosen few, or to be out, you have the power to share whatever colour of the truth about yourself that you choose. This Asterism gives hope to people who harbour a secret but also to remove the secret and let it simply become your truth.
+#### The Decentralisation Zone at Mozfest
 
-Each of the asterisms will have a Dreaming, which is a creation story (as told by Australian Aborigines with particular elements that make it a dreaming more than just linear story). These are coming.
+##### Entering the Decentralisation Zone
 
-All the people in the space are Haven's Constellation
-Reasoning: Collectively we all comprise a unit of measurement greater than an asterism, being a constellation. Yes constellations are fixed but we are just going to declare ourselves a constellation, we will put our sunglasses on and people can deal with it.
+Coming Soon.
 
-Based on all this: Space Description
-Welcome to the Haven's Nebula, a manifestation of collective liberation. Inclusive AI built by queer communities have opened contact with the Asterism, wayfarers from cross the stars that offer to guide one and all to an enlightened future. This space is for connecting, socializing, downtime, and for navigation as you orientate yourself for the queering experience across Mozfest. Haven's Nebula has come from a foundation of radical inclusion through a queer lens. Propose a session and build community through performance, discussion, learning and friendship. Join a constellation of people, find your guiding star and join us in creating the inclusive world we want.
+### Using the world building document
 
-Overall notes: The cultures that really came through from my brief reading were Egyptian, Arabic, Babylonian, Indian, Chinese, and Polynesian (Australian Aborigine (though they would dispute being called Polynesian, I'm lumping together geography) Maori and Hawaiian) as they really focused on astronomy. I tried to weave in all the elements we discussed in person, like using the stars to escape slavery and while there are some elements in names names I steered largely clear of Greek and Roman astrology due to it being the foundation of what we know as Western astronomy today. If anyone feels the above isn't representative enough now is the time to voice it.
-
-
-
-The Queering Zone - Haven's Nebula
-
-The physical space is called Haven's Nebula
-Reasoning: Nebulas appear nice and soft, so we have the tactile element of the space. Nebulas are where stars are born so we have homecoming, haven is part of the theme below. Nebulas are also colourful so we have license for rainbows and everything else.
-Supporting: To bring out the fluffy nature of nebulas I think beanbags, if we can get them cheap, or cushions, are a must. Big and soft is what we want.
+Haven's Nebula is licensed under Creative Commons Attribution Share Alike 4.0 and its use under this license is encouraged. We want people in the queering space to engage with this theme, and connect with the overall concept of queering in a way they maybe haven't before. We encourage people to use this document to write stories set in Haven's Nebula, create artwork that represents the Nebula, and dive into this theme in ways we have never even thought of yet. We will display as much of it as we can in the space during MozFest itself. Send your submissions to me at kademorton at protonmail dot com. 
