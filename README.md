@@ -30,17 +30,34 @@ Propose a session and build community through performance, discussion, learning,
 
 Connect to a constellation of people, find your guiding star and join us in creating the inclusive world we want.
 
-
 #### Asterisms at MozFest
 
-fix up
-Reasoning: Asterism is the official term for small constellations. And unlike constellations, they are not fixed. There is no official international body that recognises them, they are a complete social construct that people choose to by into. The three of us can choose to recognise a particular group of stars as our Asterism of anything we like, and others can recognise if they choose, or recognise some or all of those same stars as a completely different Asterism.
+##### The word "Asterism"
 
-Vaeleph Naksharab, the Herald of Alchemy
-The stars of VN form a unicorn
-Meaning: This asterism is about family and community, among LGBTQI+, among the wider idea of queer and in the world at large. Transmuting something worthless, like division, hate, pain etc., into something beautiful like family, community and allies. This asterism is about campaigning and advocacy.
+The syndicates of the 2018 Decentralisation Zone resonated well with attendees. I wanted to build on this idea for the 2019 Queering Space, and as we were running with the idea of stars the idea of constellations jumped out at me. However, constellations are quite large and they are quite rigid. The International Astronomical Union (IAU) defines official constellations, having mapped the entire sky, leaving zero room for anything but their official interpretation. As queerness is often about subversion, that doesn't feel very queer at all. On further reading I came across the below:
 
-Phaeshira Aziban, the Contraverse Form
+In observational astronomy, an [asterism](https://en.wikipedia.org/wiki/Asterism_%28astronomy%29) is a popularly-known pattern or group of stars that can be seen in the night sky. This colloquial definition makes it appear quite similar to a constellation, but they differ mostly in that a constellation is an officially recognized area of the sky, while an asterism is a visually obvious collection of stars and the lines used to mentally connect them; as such, asterisms do not have officially determined boundaries and are therefore a more general concept which may refer to any identified pattern of stars. 
+
+Something that can be self defined, that groups can choose to recognise based on shared understandings and values, that can be ascribed shared meaning and are controlled by no official body? Yes! However (again), the word asterism does not have nearly the same level of brand recognition that the word constellation does, so we expect the two will be used interchangibly. But language is important, so we have the word asterism for those that what to use it.
+
+##### So what are the asterisms?
+
+As per the story in our overview, the asterisms are introduced as refugees from an intergalactic conflict, looking for collaborators to create a safe harbour, a utopia for all living beings. They are benevolent entities from beyond the stars, queering the idea of 'the other' being inherently evil and dangerous, and they want to help us build a sanctuary that we can take shelter in, should we want to. As people have used the stars for navigation for many years, be it [wayfinding by the stars](https://en.wikipedia.org/wiki/Polynesian_navigation#Navigation_by_the_stars) or by [following the North Star to escape slavery](https://www.voanews.com/a/escaped-slaves-followed-the-north-star-to-freedom-in-northern-states-and-canada-84249287/162640.html) the Asterisms have come to guide us to collective liberation. 
+
+There are three distinct asterisms that have made contact with the human race, each with their own stars, their own histories and their own personalities. They are listed below. People can choose to associate with one or more of the asterisms, depending on what speaks to them.
+
+##### Vaeleph Naksharab, the Herald of Alchemy
+The first asterism to make contact with humanity called themselves Vaeleph Naksharab. They explained to the collective of queer technologists contacted that their name, translated into human languages means "the herald of alchemy". Vaeleph firmly believes in relationships, that we can all be better versions of ourselves in the context of others. It was Vaeleph's idea to make contact with humanity in the first instance to help them reach and build Haven's Nebula. Vaeleph builds coalitions, transmuting ugly things like hate and pain into beutiful things like family and community. The stars of their home system, seen from the earth, appear as a unicorn.
+
+Vaeleph was created to be a broad banner that people, queer and those that don't identify was queer, could associate under. Their underpinning theme is community, campaigning and advocacy, which can change situations for the better. The shape of their asterism, the unicorn, as well as being a very popular pride symbol, is a reference to the giant unicorn in the Queering Space last year. While this year we can't just be unicorns, we can still have unicorns!
+
+##### Phaeshira Aziban, the Contraverse Form
+Contact with Phaeshira was first noticed when the datasets the queer collective's AI were using began to display aberations. Change is literally Phaeshira's language. The meaning of Phaeshira Aziban, translated into human tongues has multiple interpretations, and the ambiguous translation of "the Contraverse Form" is usually settled on. Phaeshira rebels against static definitions, seeing them as the bedrock of power structures, and prefers fluidity. They believe in chaging appearances, physical form and even changing ideas. Freedom and self determination are the ideals Phaeshira holds dear. The stars of their home system, seen from the earth, appear as many different things, but seem to be an amorphous creature.
+
+Phaeshira was created to push the alien element of the asterisms, and to give people that feel alienated and accutely different from others a banner to rally around. Their underpinning theme is difference, choice and ultimately acceptance. Phaeshira will mark the Queering Space as definitely "queer" in the traditional sense of "different", broadening the definition of queer away from just sexual and gender minorities, which was an explicit goal for the Queering Space team.
+
+##### Thumeisa Kaitos, the Chromatic Verity
+
 The stars of PA form a creature with a flowing form, I'm still playing with different forms in my head
 Meaning: This asterism is about change, be that physically changing your body, changing your appearance, changing your opinions. This is fluid identity that rebels against the idea of being cast in stone as something that cannot change, taking multiple forms. This asterism is about freedom and self determination.
 
